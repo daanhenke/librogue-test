@@ -1,0 +1,9 @@
+{
+  "presets": ["@babel/preset-env"],
+  "sourceMaps": true,
+  "ignore": [
+    "node_modules/**/*"
+  ],
+  "minified": true,
+
+}
